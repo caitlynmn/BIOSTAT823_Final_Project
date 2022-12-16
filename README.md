@@ -1,7 +1,7 @@
 # BIOSTAT823 Final Project
 By Caitlyn Nguyen
 
-This project explores different neural network architectures for predicting in-hospital mortality using data from the MIMIC III Clinical Database.
+Intensive Care Units (ICUs) are areas within hospitals that provide crucial treatment for critically-ill patients. In this study, we tested three different neural network model architectures to improve prediction for in-hospital mortality of ICU patients. Demographic and routinely collected physiological data from 2001 to 2012 was sourced from the Multiparameter Intelligent Monitoring in Intensive Care III (MIMIC-III) Clinical Database. There were a total of n = 1,178 individuals. The best model architecture had an AUROC of 0.776 and an AUPRC of 0.600. This model shows the possibility of incorporating both baseline demographic data and medical laboratory for in-hospital mortality prediction. This provides insights on how we can develop clinical decision support tools to aid clinicians in making data-driven decisions when caring for patients.
 
 # Requirements and installation
 System requirements:
