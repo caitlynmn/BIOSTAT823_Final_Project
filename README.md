@@ -25,5 +25,5 @@ The following should be installed following these installation instructions:
 * `Final_Project_Models.pdf` is the printed document of the Jupyter Notebook output
 * `Final_Project_Report.tex` is the final report written in LaTex format
 * `Final_Project_Report.pdf` is the final report in `.pdf` format, outputted from the LaTex file
-* `bibliograpy.bib` contains the bibliography used in writing the report, and is called upon in the `Final_Project_Report.tex` file
+* `bibliograpy.bib` contains the bibliography used in writing the report and is called upon in the `Final_Project_Report.tex` file
 * The `images` folder contains screenshot images of the plots outputted from the Jupyter Notebook file
